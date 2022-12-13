@@ -9,6 +9,6 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinaxalmeida&theme=algolia&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaxalmeida&layout=compact&theme=algolia)](https://github.com/marinaxalmeida/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinaxalmeida&theme=algolia&show_icons=true)
