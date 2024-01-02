@@ -1,7 +1,7 @@
 ### Olá Pessoal! Meu nome é Marina Almeida 😎
 
 - 👩‍💻 Estudante de Engenharia da Computação
-- 🌱 Estagiando na Inpatics
+- 🌱 Desenvolvedora em Flutter
 - 🌎 Para me encontrar:
 
 <a href = "marinaalmeidadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
