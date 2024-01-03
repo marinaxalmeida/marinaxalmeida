@@ -1,6 +1,6 @@
 ### Olá Pessoal! Meu nome é Marina Almeida 😎
 
-- 👩‍💻 Estudante de Engenharia da Computação
+- 💻 Estudante de Engenharia da Computação
 - 🌱 Desenvolvedora em Flutter
 - 🌎 Para me encontrar:
 
